@@ -54,11 +54,10 @@ RAG & Vector Databases - AI Agents & Multi-Agent Workflows - Pinecone
 
 ### 📊 GitHub Stats
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=sushil-mod&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushil-mod&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sushil-mod&show_icons=true&theme=tokyonight&hide_border=true" alt="Sushil's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushil-mod&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
 ------------------------------------------------------------------------
 
