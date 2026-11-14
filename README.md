@@ -64,8 +64,12 @@ Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushil
 
 ### 📈 Contribution Graph
 
-![GitHub Activity
-Graph](https://github-readme-activity-graph.vercel.app/graph?username=sushil-mod&theme=tokyo-night&hide_border=true)
+<figure>
+<img src="https://ghchart.rshah.org/409ba5/sushil-mod"
+alt="Sushil’s GitHub Contribution Graph" />
+<figcaption aria-hidden="true">Sushil’s GitHub Contribution
+Graph</figcaption>
+</figure>
 
 ------------------------------------------------------------------------
 
